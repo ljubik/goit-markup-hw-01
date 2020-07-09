@@ -1,1 +1,2 @@
-# goit-markup-hw-01
+# HTML-CSS-25
+GO IT course
